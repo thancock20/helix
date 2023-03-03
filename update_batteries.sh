@@ -11,10 +11,14 @@ INTERESTING_PRS=(
   5523
   # Changed file picker
   5645
+  # File explorer and tree helper (v3)
+  5768
   # Fix crash when deleting with multiple cursors
   6024
   # Expand selection to whole word when pressing *
   6046
+  # Add mouse clicks to bufferline for switching documents
+  6120
 )
 
 PERSONAL_BRANCHES=(
