@@ -12,7 +12,7 @@ INTERESTING_PRS=(
   # Changed file picker
   5645
   # File explorer and tree helper (v3)
-  5768
+  # 5768
   # Fix crash when deleting with multiple cursors
   6024
   # Expand selection to whole word when pressing *
